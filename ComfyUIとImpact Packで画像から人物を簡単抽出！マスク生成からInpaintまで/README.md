@@ -4,4 +4,4 @@
 
 # ファイル
 * segmentation.json - 人物の抽出とマスクの生成までを行うワークフロー
-* impaint_human.json - 人物の抽出からimpaintまでを自動で行うワークフロー, デフォルトではopenposeのcontrolnetを嚙ませています
+* inpaint_human.json - 人物の抽出からinpaintまでを自動で行うワークフロー, デフォルトではopenposeのcontrolnetを嚙ませています
